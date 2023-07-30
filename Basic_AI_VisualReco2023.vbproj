@@ -51,7 +51,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="DirectShowLib-2005">
-      <HintPath>..\..\July 2023\Spydaz-Web AI\SpydazWebAI_ControlLibrary\bin\Release\DirectShowLib-2005.dll</HintPath>
+      <HintPath>..\..\SpydazWebAI_ControlLibrary\bin\Release\DirectShowLib-2005.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
